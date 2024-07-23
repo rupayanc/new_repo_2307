@@ -16,3 +16,7 @@ workflows:
     name: abc_api.json
     description: ''
     file: test/abc_api.json
+  - id: np1ixq5g99c
+    name: fgdg_api.json
+    description: ''
+    file: test/fgdg_api.json
