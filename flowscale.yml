@@ -20,3 +20,7 @@ workflows:
     name: fgdg_api.json
     description: ''
     file: test/fgdg_api.json
+  - id: sjg899jzzm
+    name: dfrew_api.json
+    description: ''
+    file: test/dfrew_api.json
