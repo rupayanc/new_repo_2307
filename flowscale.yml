@@ -24,3 +24,7 @@ workflows:
     name: dfrew_api.json
     description: ''
     file: test/dfrew_api.json
+  - id: 0qayqi70q338
+    name: reterte_api.json
+    description: ''
+    file: test/reterte_api.json
